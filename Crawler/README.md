@@ -1,2 +1,1 @@
-# DataMining_project
-Repo for Data Mining project 
+# Crawler code

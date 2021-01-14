@@ -13,4 +13,4 @@
   2. <u><b>Втор дел:</b></u> Примена на различни претпроцесирачки методи на множество добиено со <code>web-crawling</code> на сајт; [domain.com.au](https://www.domain.com.au/)  
   3. <u><b>Трет дел:</b></u> Тренирање на модел со цел да се предвидат вредности од различни класи во новото множество
 - **Клучни зборови**: Python, Plotly, Data Mining, Web-crawler, Feature Selection
-
+- **Презентација**: Достапна на *Google Slides* на следниот [линк](https://drive.google.com/file/d/1OK9SD2_eXIVwd-gnryWhj9Nqls7pg9xP/view?usp=sharing)

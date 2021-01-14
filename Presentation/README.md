@@ -7,7 +7,4 @@
 *** 
 
 **CREDITS:** This presentation was created by [**Slidesgo**](https://slidesgo.com/), including
-icons by **Flaticon**, and inographics & images by **Freepik**.
-
-
-Link to layout: https://slidesgo.com/theme/real-estate-marketing-plan
+icons by **Flaticon**, and inographics & images by **Freepik**. [Link to layout](https://slidesgo.com/theme/real-estate-marketing-plan). 

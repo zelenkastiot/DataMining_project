@@ -1,4 +1,4 @@
-# Data Mining [Податочно Рударство]
+# FCSE-Data-Mining
 
 **Летен семестар, 2020** <br> <br>
 

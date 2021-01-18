@@ -1,0 +1,29 @@
+Price (in dollars)
+- we have removed tuples where price was not stated
+- in tuples where there was not a given price, but a price range instead we've decided to calculate and write the mean
+
+Street Address
+
+Address Locality  - Suburb / Town / Locality (basically it is the geographic location in a region)
+
+Address Region  - State / Country  (wider geographic location)
+
+Postal Code
+
+Number of beds
+
+Number of bathrooms
+
+Number of car slots
+
+Lot area (in square meters)
+- we have removed tuples where there wasn't a number stated
+
+Type (mapped) - represents the type of the estate itself	 
+        'Vacant land' : 0,
+        'Apartment / Unit / Flat' : 1,
+        'Semi-Detached' : 2,
+        'House' : 3,
+        'New House & Land' : 4,
+        'Duplex' : 5,
+        'Villa' : 6

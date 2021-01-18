@@ -1,8 +1,6 @@
 # Project Presentation
 
-**Летен семестар, 2020** <br> <br>
-
-**Презентација:** https://drive.google.com/file/d/1OK9SD2_eXIVwd-gnryWhj9Nqls7pg9xP/view?usp=sharing
+**Link to presentation:** https://drive.google.com/file/d/1OK9SD2_eXIVwd-gnryWhj9Nqls7pg9xP/view?usp=sharing
 
 *** 
 

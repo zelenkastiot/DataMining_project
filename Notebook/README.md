@@ -19,7 +19,7 @@ The dataset used is from Kaggle, named [Advanced Regression Techniques](https://
   3. <u><b>Third part: </b></u> Cleaning and mapping to ordinal values on the scraped dataset, training different models 
     - *Categorical Naive Bayes*, *Decission Tree Classifier*, *Random Forrest Classifier*, *Logistic Regression*
 - **Key words**: Python, Plotly, Data Mining, Web-crawler, Feature Selection, Linear Regression
-- **Presentation**: Accesiable on *Google Slides*, [here](https://drive.google.com/file/d/1OK9SD2_eXIVwd-gnryWhj9Nqls7pg9xP/view?usp=sharing)
+- **Presentation**: Accessible  on *Google Slides*, [here](https://drive.google.com/file/d/1OK9SD2_eXIVwd-gnryWhj9Nqls7pg9xP/view?usp=sharing)
 - **Jupyter notebook**: Nbviewer for better view of the notebook, [here](https://nbviewer.jupyter.org/github/zelenkastiot/FCSE-Data-Mining/blob/master/Notebook/DataMining.ipynb)
 
 <hr>

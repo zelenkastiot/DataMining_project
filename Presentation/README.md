@@ -1,6 +1,6 @@
 # Project Presentation
 
-**Link to presentation:** https://drive.google.com/file/d/1OK9SD2_eXIVwd-gnryWhj9Nqls7pg9xP/view?usp=sharing
+**Link to presentation:** https://docs.google.com/presentation/d/e/2PACX-1vQLjfveCaXbGvglkkt4WzVc46aoGMPDjlhlLurXlgrLYy2UnZL0ZxG83IM_gjchdgymgN3QosxoyV80/pub?start=false&loop=false&delayms=3000
 
 *** 
 
